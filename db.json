@@ -22,11 +22,11 @@
     {
 
         "id": 3,
-        "name": "Starbucks Page",
-        "url_github": "https://github.com/MarcoArielPrtlnV/starbucks-web-page",
-        "url_page": "https://marcoarielprtlnv.github.io/starbucks-web-page/",
-        "description": "Ejemplo de una interfaz web de Starbucks Coffee",
-        "image": "https://i.postimg.cc/T2WVVdCc/Starbucks-page.png"
+        "name": "Alura Shop",
+        "url_github": "https://github.com/MarcoArielPrtlnV/challenge-alura-geek",
+        "url_page": "https://marcoarielprtlnv.github.io/challenge-alura-geek/",
+        "description": "Ejemplo de una Ecommerce que mediante FETCH hace una petición GET para acceder a una base de datos JSON,  la pp permite listar productos, agregar productos al carrito, modificar cantidades, calcular el total y procesar la compra.",
+        "image": "https://i.postimg.cc/xC03YZz4/desktop.png"
 
     },
 
@@ -53,16 +53,17 @@
 
     },
 
-        {
+     {
 
         "id": 6,
-        "name": "Alura Shop",
-        "url_github": "https://github.com/MarcoArielPrtlnV/challenge-alura-geek",
-        "url_page": "https://marcoarielprtlnv.github.io/challenge-alura-geek/",
-        "description": "Ejemplo de una Ecommerce que mediante FETCH hace una petición GET para acceder a una base de datos JSON,  la pp permite listar productos, agregar productos al carrito, modificar cantidades, calcular el total y procesar la compra.",
-        "image": "https://i.postimg.cc/xC03YZz4/desktop.png"
+        "name": "Starbucks Page",
+        "url_github": "https://github.com/MarcoArielPrtlnV/starbucks-web-page",
+        "url_page": "https://marcoarielprtlnv.github.io/starbucks-web-page/",
+        "description": "Ejemplo de una interfaz web de Starbucks Coffee",
+        "image": "https://i.postimg.cc/T2WVVdCc/Starbucks-page.png"
 
     },
+
 
     {
 
@@ -75,8 +76,6 @@
     }
 
     
-
-
 ]
 
 }
