@@ -56,7 +56,7 @@
         {
 
         "id": 6,
-        "name": "Alua Shop",
+        "name": "Alura Shop",
         "url_github": "https://github.com/MarcoArielPrtlnV/challenge-alura-geek",
         "url_page": "https://marcoarielprtlnv.github.io/challenge-alura-geek/",
         "description": "Ejemplo de una Ecommerce que mediante FETCH hace una petición GET para acceder a una base de datos JSON,  la pp permite listar productos, agregar productos al carrito, modificar cantidades, calcular el total y procesar la compra.",
